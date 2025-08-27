@@ -35,16 +35,19 @@ Here are some ideas to get you started:
 
 **Estagiário de engenharia** \
 [**Genoa Soluções**](https://www.genoads.com.br) • Part-time \
-Linguagens & Tecnologias: `AnyLogic`, `VS Code`, `Python`, `Excel`, `VBA`\
+Linguagens & Tecnologias: `AnyLogic`, `VS Code`, `Python`, `Excel`, `VBA`
 <!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)-->
 <br/>
 
+
+### Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,py,pytorch,java,js,matlab,docker,notion)](https://skillicons.dev)
 
 
 <!--
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pxc2)
+-->
 
 
 <picture>
@@ -52,5 +55,5 @@ Linguagens & Tecnologias: `AnyLogic`, `VS Code`, `Python`, `Excel`, `VBA`\
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroOliveira2356/PedroOliveira2356/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroOliveira2356/PedroOliveira2356/output/pacman-contribution-graph.svg">
 </picture>
--->
+
 
